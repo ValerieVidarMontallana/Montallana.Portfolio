@@ -1,0 +1,66 @@
+body {
+    background-color: #AF1740;
+    color: #fdf6fac0;
+    font-family: 'Playfair Display', serif;
+}
+
+.navbar {
+    background-color: #740938;
+}
+
+.navbar-brand, .navbar-nav li a {
+    color: #be103b !important;
+}
+
+.section-header {
+    padding: 30px;
+    background-color: #7d2935;
+    color: #fdf6fac0;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+.project-title, .exp-title {
+    font-size: 1.5em;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+.project-pic, .exp-pic {
+    border: 2px solid black;
+    border-radius: 10px;
+    transition: transform 0.2s;
+}
+
+.project-pic:hover, .exp-pic:hover {
+    transform: scale(1.05);
+}
+
+.description {
+    background-color:#f2ecee;
+    color: #060005c0;
+}
+
+.contact-container {
+    background-color: #C7253E;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.btn-send {
+    background-color: #f2ecee;
+    color: #c5c5c4;
+}
+
+.btn-send:hover {
+    background-color:#b48895;
+}
+
+.carousel-inner img {
+    border-radius: 10px;
+}
+.text-container {
+    color: black;
+}
+.jumbotron {
+    color: rgb(0, 0, 0); 
+background-color: #F4D9D0;
+}
